@@ -19,10 +19,10 @@ Actually In snake game we control the direction of movement of the snake using k
 
 ## Commands:
 
-Up ---> Snake Moves Upwards
+<b>Up</b> ---> Snake Moves Upwards
 
-Down ---> Snake Moves Downwards
+<b>Down</b> ---> Snake Moves Downwards
 
-Left ---> Snake Moves Leftwards
+<b>Left</b> ---> Snake Moves Leftwards
 
-Right ---> Snake Moves Rightwards
+<b>Right</b> ---> Snake Moves Rightwards
