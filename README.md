@@ -1,6 +1,6 @@
 # Snake Game
 
-<img src='https://i.redd.it/i8gdwgunl6531.png'>
+<img src='https://res.cloudinary.com/practicaldev/image/fetch/s--LFbQeJ2u--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/6r5zdsuj6rqv7jqd7k20.jpg'>
 
 ## Team Members:
 
