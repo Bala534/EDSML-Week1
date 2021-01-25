@@ -45,8 +45,12 @@ Actually In snake game we control the direction of movement of the snake using k
 
 ## Play With The Game:
 
-https://ai-snake-game.herokuapp.com/
+https://ai-snake-gametm.herokuapp.com/
 
 ## Output Images:
 
 <img src='https://raw.githubusercontent.com/Bala534/EDSML-Week1/main/snakegame.png'>
+
+## Demo Video
+
+[![Demo_Video](https://img.youtube.com/vi/orEFS89fx7M/0.jpg)](https://www.youtube.com/watch?v=orEFS89fx7M)
