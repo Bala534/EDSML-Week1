@@ -37,7 +37,7 @@ Actually In snake game we control the direction of movement of the snake using k
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1200px-Javascript-shield.svg.png" />
-<img align="left" alt="Teachable Machine" width="50px" src"https://s3-ap-northeast-2.amazonaws.com/opentutorials-user-file/module/4916/12175.jpeg" />
+<img align="left" alt="Teachable Machine" width="50px" src="https://s3-ap-northeast-2.amazonaws.com/opentutorials-user-file/module/4916/12175.jpeg" />
 <br />
 <br />
 <br />
@@ -49,7 +49,7 @@ https://ai-snake-gametm.herokuapp.com/
 
 ## Output Images:
 
-<img width="100px" height="100px" src='https://raw.githubusercontent.com/Bala534/EDSML-Week1/main/snakegame.png'>
+<img width="100px" height="100px" src="https://raw.githubusercontent.com/Bala534/EDSML-Week1/main/snakegame.png"/>
 
 ## Demo Video
 
