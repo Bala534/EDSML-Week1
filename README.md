@@ -49,7 +49,7 @@ https://ai-snake-gametm.herokuapp.com/
 
 ## Output Images:
 
-<img src='https://raw.githubusercontent.com/Bala534/EDSML-Week1/main/snakegame.png'>
+<img width="100px" height="100px" src='https://raw.githubusercontent.com/Bala534/EDSML-Week1/main/snakegame.png'>
 
 ## Demo Video
 
