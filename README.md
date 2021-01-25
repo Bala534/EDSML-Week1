@@ -26,3 +26,14 @@ Actually In snake game we control the direction of movement of the snake using k
 <b>Left</b> ---> Snake Moves Leftwards
 
 <b>Right</b> ---> Snake Moves Rightwards
+
+## Technologies Used:
+
+<ul>
+  <li>HTML,CSS and JS</li>
+  <li>Teachable Machine</li>
+</ul>
+
+<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
