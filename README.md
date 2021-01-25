@@ -16,3 +16,13 @@ To create a basic snake game using javascript and html and control it using Teac
 ## Working Of The Game:
 
 Actually In snake game we control the direction of movement of the snake using keys from keyboard, but here we are going to control the direction of movement of snake using video with the help of machine learning model build on teachable machine.
+
+## Commands:
+
+Up ---> Snake Moves Upwards
+
+Down ---> Snake Moves Downwards
+
+Left ---> Snake Moves Leftwards
+
+Right ---> Snake Moves Rightwards
