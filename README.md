@@ -38,3 +38,7 @@ Actually In snake game we control the direction of movement of the snake using k
 <img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Teachable Machine" width="50px" src"https://thecodingtrain.com/assets/images/tm_horizontal.png" />
+
+## Play With The Game:
+
+https://ai-snake-game.herokuapp.com/
